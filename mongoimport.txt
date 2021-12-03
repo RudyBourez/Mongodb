@@ -1,0 +1,1 @@
+mongoimport --db imdb --type csv --headerline --ignoreBlanks --file C:\Users\Apprenant\Desktop\Dev IA\Web Scraping\mongodb\films.csv
